@@ -1,0 +1,5 @@
+{
+        "version": 2,
+        "name": "nix-shell-nixto-2020",
+        "builds": [{ "src": "package.json", "use": "@now/static-build" }]
+}

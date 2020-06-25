@@ -1,0 +1,7 @@
+node_modules
+.nix-node
+*.html
+*/vendor/
+*/.nix-gems/
+
+.vercel
