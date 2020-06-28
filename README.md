@@ -1,4 +1,4 @@
-# almost-octane slides
+# Introduction to nix-shell
 
 [live version](https://nix-shell-nixto-2020.vercel.app/)
 
